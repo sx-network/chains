@@ -3535,6 +3535,19 @@
   "faucets": ["https://pipa.lisinski.online"],
   "infoURL": "https://lisinski.online"
 }, {
+  "name": "Cronos zkEVM Mainnet",
+  "chainId": 388,
+  "shortName": "zkCRO",
+  "networkId": 388,
+  "nativeCurrency": {
+    "name": "Cronos zkEVM CRO",
+    "symbol": "zkCRO",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.zkevm.cronos.org"],
+  "faucets": [],
+  "infoURL": "https://cronos.org/zkevm"
+}, {
   "name": "CamDL Testnet",
   "chainId": 395,
   "shortName": "camdl-testnet",
@@ -12527,7 +12540,7 @@
     "symbol": "JBC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-l1.jibchain.net", "https://jib-rpc.inan.in.th"],
+  "rpc": ["https://rpc-l1.jibchain.net", "https://rpc-l1.inan.in.th"],
   "faucets": [],
   "infoURL": "https://jibchain.net"
 }, {
@@ -13427,6 +13440,19 @@
   "rpc": ["https://rpctest.quadrans.io", "https://rpctest2.quadrans.io"],
   "faucets": ["https://faucetpage.quadrans.io"],
   "infoURL": "https://quadrans.io"
+}, {
+  "name": "Shape Sepolia Testnet",
+  "chainId": 11011,
+  "shortName": "shapesep",
+  "networkId": 11011,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia.shape.network"],
+  "faucets": [],
+  "infoURL": "https://shape.network"
 }, {
   "name": "Astra",
   "chainId": 11110,
@@ -15143,6 +15169,19 @@
   "rpc": ["https://testnet-rpc.hychain.com/http"],
   "faucets": [],
   "infoURL": "https://www.hychain.com"
+}, {
+  "name": "Nexa MetaNet",
+  "chainId": 29223,
+  "shortName": "nexameta",
+  "networkId": 29223,
+  "nativeCurrency": {
+    "name": "Nexa",
+    "symbol": "NEXA",
+    "decimals": 18
+  },
+  "rpc": ["https://nexa.sh/metanet"],
+  "faucets": [],
+  "infoURL": "https://nexa.sh/meta"
 }, {
   "name": "KaiChain Testnet",
   "chainId": 29536,
@@ -22060,6 +22099,19 @@
   "faucets": ["https://sfuel.dirtroad.dev/staging"],
   "infoURL": "https://europahub.network/"
 }, {
+  "name": "Skopje Testnet",
+  "chainId": 476462898,
+  "shortName": "Skopje",
+  "networkId": 476462898,
+  "nativeCurrency": {
+    "name": "SkpGPT",
+    "symbol": "SkpGPT",
+    "decimals": 18
+  },
+  "rpc": ["https://skopje-rpc.gptprotocol.io"],
+  "faucets": ["https://skopje-faucet.gptprotocol.io"],
+  "infoURL": "https://gptprotocol.com"
+}, {
   "name": "Gather Devnet Network",
   "chainId": 486217935,
   "shortName": "dGTH",
@@ -22345,6 +22397,19 @@
   "rpc": ["https://mainnet.skalenodes.com/v1/green-giddy-denebola", "wss://mainnet-proxy.skalenodes.com/v1/ws/green-giddy-denebola"],
   "faucets": ["https://sfuel.skale.network/"],
   "infoURL": "https://nebulachain.io/"
+}, {
+  "name": "GPT Mainnet",
+  "chainId": 1511670449,
+  "shortName": "GPT",
+  "networkId": 1511670449,
+  "nativeCurrency": {
+    "name": "GPT",
+    "symbol": "GPT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.gptprotocol.io"],
+  "faucets": [],
+  "infoURL": "https://gptprotocol.com"
 }, {
   "name": "Deprecated SKALE Titan Hub Testnet",
   "chainId": 1517929550,

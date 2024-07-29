@@ -4207,6 +4207,14 @@
     "format": "png"
   }]
 }, {
+  "name": "skopje-gpt",
+  "icons": [{
+    "url": "ipfs://Qmf75UpPd7PA3tV6iPxWXGmHq4azyP3CrBYStdSSjQ2Wrx",
+    "width": 1170,
+    "height": 1164,
+    "format": "jpg"
+  }]
+}, {
   "name": "ftmscan",
   "icons": [{
     "url": "ipfs://QmRqbK449Fo9sJ3xMpkPbg6uV1weQj4yVV1xNMP9cdPmjf",
@@ -4396,6 +4404,14 @@
     "url": "ipfs://QmVth4aPeskDTFqRifUugJx6gyEHCmx2PFbMWUtsCSQFkF",
     "width": 468,
     "height": 518,
+    "format": "png"
+  }]
+}, {
+  "name": "nexashell",
+  "icons": [{
+    "url": "ipfs://bafkreigb5iwd233ih5w4zn67zoqafv4jisqgkzfccabye7bjntccs5yjee",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
@@ -5231,6 +5247,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gpt",
+  "icons": [{
+    "url": "ipfs://Qmdh4Lzamv34Ae2bhA9M6GLCjXxPAtHC5zdG5ZNidrdenA",
+    "width": 1000,
+    "height": 1000,
+    "format": "jpg"
+  }]
+}, {
   "name": "atlas",
   "icons": [{
     "url": "ipfs://QmcSWGcoqC3y8VKahRdqPDgD68rr6A1gWVQPRt5FcpgWmG",
@@ -5516,6 +5540,14 @@
     "url": "ipfs://bafybeifxqd7zel2m237kq5enavnh2s6cshaavswigogyvae2wevxy5k2ti",
     "width": 512,
     "height": 578,
+    "format": "png"
+  }]
+}, {
+  "name": "nexameta",
+  "icons": [{
+    "url": "ipfs://bafkreia42ym3rgzo7w5k445nr4wmji4ucxgw4pdhdo5lacczkk2fiahwni",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
